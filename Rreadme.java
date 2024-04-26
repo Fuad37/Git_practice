@@ -4,6 +4,7 @@ int first = 10;
 int second = 20;
 // add two numbers
 int sum = first + second;
+// printing the result 
 System.out.println(first + " + " + second + " = " + sum);
 }
 }
